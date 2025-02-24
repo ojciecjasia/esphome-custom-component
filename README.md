@@ -16,7 +16,7 @@ external_components:
   - source:
       type: git
       url: https://github.com/robertklep/esphome-custom-component
-    components: [ custom ]
+    components: [ custom, custom_component ]
 ```
 
 This should be enough to enable compilation of custom components again.
