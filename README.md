@@ -1,4 +1,4 @@
-# ESPHome Custom Component
+# ESPHome Custom Component <a href="https://www.paypal.com/donate?hosted_button_id=6K9UYUZ4SZMVC"><img style="vertical-align:middle" src="https://www.paypalobjects.com/en_GB/i/btn/btn_donate_SM.gif"></a>
 
 With the release of ESPHome 2025.2.0, custom components were removed from the ESPHome core.
 
